@@ -47,7 +47,7 @@
    -> Chạy src/Main/Main.java
 
 ## 📂 4. Cấu trúc dự án:
-
+   ```bash
 src/
 ├── DAO/        → lớp truy xuất DB: UserDAO, ExamDAO, ...
 ├── Model/      → Entity: User, Exam, Question, ...
