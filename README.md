@@ -13,10 +13,6 @@
 2. [Cài đặt](#cài-đặt)  
 3. [Chạy ứng dụng](#chạy-ứng-dụng)  
 4. [Cấu trúc dự án](#cấu-trúc-dự-án)  
-5. [Ví dụ sử dụng](#ví-dụ-sử-dụng)  
-6. [Đóng góp](#đóng-góp)  
-7. [Giấy phép](#giấy-phép)  
-8. [Liên hệ](#liên-hệ)
 
 ---
 
